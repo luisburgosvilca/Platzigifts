@@ -1,0 +1,10 @@
+define('AUTH_KEY',         ';Jjzjyp-_b-.kDO+>L.aGsxOsxkSnYq/UewQAA-bsARRf44.bj5$L^Z~W2yDq2R`');
+define('SECURE_AUTH_KEY',  'J?Z:Voi=5fogN@i.Of0s[RO=EJI$.+IQEEio9N%dYQr%`~Vm66xPdq:^j_w<[z*p');
+define('LOGGED_IN_KEY',    'h[Z)%]=6 8ex^{*5^`UOj%/)7C%L.Y?]p .n/T32DP+I4<?qalu7t#@4mJmlc6&M');
+define('NONCE_KEY',        '+ U5U5;tYv8hH48R)+eu`o*l(XY=#m<-41f@_yH2IyI 6DwJl&>elE08LLB#xx;8');
+define('AUTH_SALT',        '6,R=t&FHK969u]Fsl)D$)cw7Br|:>7Rg*c+Ie(+Cw5dwq b@aEf|:cUBJZqTkgns');
+define('SECURE_AUTH_SALT', 'jtw;W%b=D/s8cb:[E/W-hfJ,*i:/-`[inz6qi41eN+^=9-u^-Dl3h#2/wrNoQJyo');
+define('LOGGED_IN_SALT',   '+/1,4)E?isgF+B!&[-v5fxrM-wQH?gB+V.vsyoXk!,c]t[D/l$AE~+XU#s|4j>`.');
+define('NONCE_SALT',       '^- ;/6B2Sz&B(tZ,(3=0_O292T7UGb:4A4N*>?V>`S o8wi2h++GMh{2`M2VfGel');
+//licencia: https://wordpress.org/support/article/roles-and-capabilities/#administrator
+//link de wordpress: http://api.wordpress.org/secret-key/1.1/salt
